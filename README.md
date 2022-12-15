@@ -1,0 +1,26 @@
+# **InformeTarea 4**
+
+**1. OBJETIVOS:**
+
+**1.1. Objetivo General:**
+
+**1.2. Objetivos Específicos:**
+
+**2. MARCO TEÓRICO (RESUMEN)**
+
+**RESUMEN CAPITULO - 7**
+
+**RESUMEN CAPITULO - 8**
+
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+**EJERCICIOS CAPITULO - 7**
+
+**EJERCICIOS CAPITULO - 8**
+
+**4. VIDEO**
+
+**5. CONCLUSIONES**
+
+**6. BIBLIOGRAFÍA**
+
