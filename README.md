@@ -12,7 +12,15 @@ https://www.canva.com/design/DAFT1eGEH9M/thDA_90p8r_1STDn_SoCng/view?utm_content
 
 **RESUMEN CAPITULO - 7**
 
+[![1.jpg](https://i.postimg.cc/NFf0xQRs/1.jpg)](https://postimg.cc/qhS0JVmS)
+
+[![2.jpg](https://i.postimg.cc/TY1wLYRQ/2.jpg)](https://postimg.cc/N5hYZt2r)
+
 **RESUMEN CAPITULO - 8**
+
+[![3.jpg](https://i.postimg.cc/Pr7qmsJH/3.jpg)](https://postimg.cc/fJxZNPYq)
+
+[![4.jpg](https://i.postimg.cc/mrf25Y76/4.jpg)](https://postimg.cc/qNwTtCb8)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
