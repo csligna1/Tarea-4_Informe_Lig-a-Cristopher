@@ -8,6 +8,8 @@
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
+https://www.canva.com/design/DAFT1eGEH9M/thDA_90p8r_1STDn_SoCng/view?utm_content=DAFT1eGEH9M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
+
 **RESUMEN CAPITULO - 7**
 
 **RESUMEN CAPITULO - 8**
