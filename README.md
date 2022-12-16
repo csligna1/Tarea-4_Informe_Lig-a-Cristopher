@@ -291,51 +291,85 @@ https://www.canva.com/design/DAFT1eGEH9M/thDA_90p8r_1STDn_SoCng/view?utm_content
 
 **1. Una fuente de voltaje tiene los valores VS 5 300 V y RS 5 50 ohms. Conviértala en una fuente de corriente equivalente.**
 
+[![1.jpg](https://i.postimg.cc/sx1gYskh/1.jpg)](https://postimg.cc/WqLVjLbN)
+
 **3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?**
 
+[![3.jpg](https://i.postimg.cc/BZw6qPFc/3.jpg)](https://postimg.cc/SjCqdsDJ)
+
 **5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kÆ. Conviértala en una fuente de voltaje equivalente.**
+
+[![5.jpg](https://i.postimg.cc/MKCpBkdn/5.jpg)](https://postimg.cc/mtS4xnx4)
 
 **SECCIÓN 8–4 El teorema de superposición**
 
 **7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.**
 
+[![7.jpg](https://i.postimg.cc/SxcN7ZvD/7.jpg)](https://postimg.cc/DSyT7cFX)
+
 **9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.**
+
+[![9.jpg](https://i.postimg.cc/k59MjQr9/9.jpg)](https://postimg.cc/hXyqv7P3)
 
 **11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kohms, ¿cuál es el intervalo del voltaje de referencia?**
 
+[![11.jpg](https://i.postimg.cc/vBZYyGHN/11.jpg)](https://postimg.cc/qtWVXVKs)
+
 **13. Determine el voltaje del punto A al punto B en la figura 8-73.**
 
+[![13.jpg](https://i.postimg.cc/5yHfHpz5/13.jpg)](https://postimg.cc/BPGrkTMt)
+
 **15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).**
+
+[![15.jpg](https://i.postimg.cc/BZySW9Wm/15.jpg)](https://postimg.cc/CdGTD2x8)
 
 **SECCIÓN 8–5 Teorema de Thevenin**
 
 **17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.**
 
+[![17.jpg](https://i.postimg.cc/tg2b28tt/17.jpg)](https://postimg.cc/3y4zwSqd)
+
 **19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.**
 
+[![19.jpg](https://i.postimg.cc/ZRnSgjwk/19.jpg)](https://postimg.cc/GBWVTP0z)
+
 **21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8 81.**
+
+[![21.jpg](https://i.postimg.cc/nV6X4QLV/21.jpg)](https://postimg.cc/xq3jY8HB)
 
 **SECCIÓN 8–6 Teorema de Norton**
 
 **23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL**
 
+[![23.jpg](https://i.postimg.cc/VkF5PGW5/23.jpg)](https://postimg.cc/rDKqS9bL)
+
 **25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.**
+
+[![25.jpg](https://i.postimg.cc/FRwHV2NC/25.jpg)](https://postimg.cc/WF6V2YD0)
 
 **27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL**
 
+[![27.jpg](https://i.postimg.cc/8kr5zPm2/27.jpg)](https://postimg.cc/JtMmT8gx)
+
 **29. Aplique el teorema de Norton al circuito de la figura 8-84.**
+
+[![29.jpg](https://i.postimg.cc/8PRzLK3w/29.jpg)](https://postimg.cc/GHpRCQbs)
 
 **SECCIÓN 8–7 Teorema de transferencia de potencia máxima**
 
 **31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.**
 
+[![31.jpg](https://i.postimg.cc/BvVSJdLZ/31.jpg)](https://postimg.cc/Mc12D3mg)
+
 **33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?**
+
+[![33.jpg](https://i.postimg.cc/MHkzQVmh/33.jpg)](https://postimg.cc/R6Rrr38R)
 
 **SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D**
 
 **35. En la figura 8-89, convierta cada red Y en una red delta.**
 
-
+[![35.jpg](https://i.postimg.cc/sfSjRHVy/35.jpg)](https://postimg.cc/0rkRYfMH)
 
 **4. VIDEO**
 
