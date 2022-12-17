@@ -4,7 +4,13 @@
 
 **1.1. Objetivo General:**
 
+Reconocer circuitos mixtos (serie - paralelo), analizando su comportamiento de voltaje, resistencia e intensidad, aplicando las fórmulas para simplificarlos, y conocer sus funciones en aplicaciones electrónicas.
+
 **1.2. Objetivos Específicos:**
+
+Analizar circuitos eléctricos complejos o sencillos aplicando los teoremas.
+
+Simplificar circuitos resistivos, sin afectar las magnitudes de los mismos.
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
@@ -377,5 +383,16 @@ https://youtu.be/y1w2BGkVb0A
 
 **5. CONCLUSIONES**
 
+El simplificar circuitos eléctricos es escencial, e importante debido a que se pueden simplificar elementos, conociendo sus fórmulas, y distintas magnitudes de manera mas sencilla, y en estos capítulos resultó importante conocer los distintos teoremas (Superposición, Thevenin, Norton), para conocer de forma mas simplificada circuitos sin alterar sus resultados.
+
+
+
 **6. BIBLIOGRAFÍA**
+
+AULAFACIL. (22 de Octubre de 2022). Obtenido de https://www.aulafacil.com/cursos/electronica/resistencias-en-electronica/calculos-de-resistencias-en-puente-de-wheatstone-l34232
+
+
+carakenio73. (10 de Noviembre de 2019). dademuchconnection. Obtenido de https://dademuch.com/2019/11/10/teorema-de-norton-analisis-de-circuitos-electricos/
+
+
 
